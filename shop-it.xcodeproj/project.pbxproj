@@ -101,6 +101,12 @@
 		383D87B8283D8EF3005C0A9A /* shop-it */ = {
 			isa = PBXGroup;
 			children = (
+				383D87F4283D8F77005C0A9A /* Delegate */,
+				383D87F3283D8F6B005C0A9A /* Resources */,
+				383D87F2283D8F5D005C0A9A /* ViewModel */,
+				383D87F1283D8F4F005C0A9A /* Constants */,
+				383D87F0283D8F43005C0A9A /* Model */,
+				383D87EF283D8F38005C0A9A /* View */,
 				383D87B9283D8EF3005C0A9A /* AppDelegate.swift */,
 				383D87BB283D8EF3005C0A9A /* SceneDelegate.swift */,
 				383D87BD283D8EF3005C0A9A /* ViewController.swift */,
@@ -129,6 +135,48 @@
 				383D87E0283D8EF9005C0A9A /* Info.plist */,
 			);
 			path = "shop-itUITests";
+			sourceTree = "<group>";
+		};
+		383D87EF283D8F38005C0A9A /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		383D87F0283D8F43005C0A9A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		383D87F1283D8F4F005C0A9A /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		383D87F2283D8F5D005C0A9A /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		383D87F3283D8F6B005C0A9A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		383D87F4283D8F77005C0A9A /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Delegate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
